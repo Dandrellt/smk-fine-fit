@@ -1,0 +1,23 @@
+{
+  "weeks": [
+    {
+      "label": "Week 1",
+      "days": [
+        {
+          "name": "Monday \u2013 Glute Activation",
+          "exercises": [
+            {
+              "exercise": "Kettlebell Sumo Deadlift",
+              "sets": "4",
+              "reps": "12",
+              "calories": "\u224860",
+              "intensity": "7",
+              "cue": "Hinge; exhale drive; hold 1s.",
+              "link": "https://www.youtube.com/watch?v=rW9fLE8o92w"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

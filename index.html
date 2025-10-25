@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>SMK Fine & Fit</title>
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#a84ac2">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <style>
+    body { font-family: -apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Helvetica, Arial, sans-serif; margin:0; background:#fff; color:#222; }
+    header { background:#a84ac2; color:#fff; padding:16px; position:sticky; top:0; }
+    .container { padding: 14px; }
+    .card { border:1px solid #eee; border-radius:12px; padding:12px; margin:10px 0; }
+    .btn { padding:10px 14px; border-radius:10px; border:1px solid #a84ac2; background:#a84ac2; color:#fff; text-decoration:none; }
+    .row { display:flex; gap:8px; align-items:center; flex-wrap:wrap; }
+    table { width:100%; border-collapse: collapse; font-size:14px; }
+    th, td { border-bottom:1px solid #eee; padding:8px; text-align:left; }
+    .small { color:#666; font-size:12px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1 style="margin:0">SMK Fine & Fit</h1>
+    <div class="small">Curves. Confidence. Control.</div>
+  </header>
+  <div class="container">
+    <div class="card">
+      <div class="row">
+        <a class="btn" href="#" id="installBtn">Add to Home Screen</a>
+        <span class="small">Works offline after first load.</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2 style="margin-top:0">8‑Week Program</h2>
+      <div id="weeks"></div>
+    </div>
+  </div>
+
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => navigator.serviceWorker.register('service-worker.js'));
+    }
+
+    let deferredPrompt;
+    const installBtn = document.getElementById('installBtn');
+    window.addEventListener('beforeinstallprompt', (e) => {
+      e.preventDefault();
+      deferredPrompt = e;
+      installBtn.style.display = 'inline-block';
+      installBtn.onclick = async () => {
+        if (deferredPrompt) { deferredPrompt.prompt(); deferredPrompt = null; }
+      };
+    });
+
+    async function loadPlan() {
+      const res = await fetch('plan-data.json');
+      const data = await res.json();
+      const weeksDiv = document.getElementById('weeks');
+      weeksDiv.innerHTML = '';
+      data.weeks.forEach((week, wi) => {
+        const section = document.createElement('section');
+        section.className = 'card';
+        section.innerHTML = `<h3 style="margin:0 0 8px 0">${week.label}</h3>`;
+        week.days.forEach((day, di) => {
+          const tbl = document.createElement('table');
+          const head = document.createElement('thead');
+          head.innerHTML = '<tr><th style="width:32%">Workout</th><th>Sets</th><th>Reps</th><th>Cal</th><th>Int</th><th>Video</th></tr>';
+          tbl.appendChild(head);
+          const body = document.createElement('tbody');
+          day.exercises.forEach((ex) => {
+            const tr = document.createElement('tr');
+            tr.innerHTML = `<td>${ex.exercise}<br><span class="small">${ex.cue}</span></td>
+                            <td>${ex.sets}</td><td>${ex.reps}</td><td>${ex.calories}</td>
+                            <td>${ex.intensity}</td>
+                            <td><a href="${ex.link}" target="_blank">Watch ▶︎</a></td>`;
+            body.appendChild(tr);
+          });
+          tbl.appendChild(body);
+          const h4 = document.createElement('h4'); h4.textContent = day.name;
+          section.appendChild(h4);
+          section.appendChild(tbl);
+        });
+        weeksDiv.appendChild(section);
+      });
+    }
+    loadPlan();
+  </script>
+</body>
+</html>
