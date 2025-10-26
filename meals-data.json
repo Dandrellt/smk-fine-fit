@@ -1,0 +1,214 @@
+{
+  "days": [
+    {
+      "day": "Monday",
+      "items": [
+        {
+          "name": "Breakfast",
+          "what": "Greek yogurt (1 cup) + strawberries/blueberries + 1 tsp honey + chia",
+          "kcal": "~320"
+        },
+        {
+          "name": "Snack",
+          "what": "Apple + 1 tbsp peanut butter",
+          "kcal": "~200"
+        },
+        {
+          "name": "Lunch",
+          "what": "Grilled chicken quinoa bowl (1/2 cup quinoa, greens, cucumber, tomato, olive oil & lemon)",
+          "kcal": "~480"
+        },
+        {
+          "name": "Snack",
+          "what": "Protein shake (25g) + rice cake",
+          "kcal": "~220"
+        },
+        {
+          "name": "Dinner",
+          "what": "Baked salmon (5 oz) + jasmine rice (3/4 cup) + broccoli (2 cups)",
+          "kcal": "~600"
+        }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "items": [
+        {
+          "name": "Breakfast",
+          "what": "Oatmeal (1/2 cup dry) + banana + whey",
+          "kcal": "~380"
+        },
+        {
+          "name": "Snack",
+          "what": "Cottage cheese (3/4 cup) + pineapple",
+          "kcal": "~220"
+        },
+        {
+          "name": "Lunch",
+          "what": "Turkey wrap (whole\u2011grain tortilla) + carrots",
+          "kcal": "~450"
+        },
+        {
+          "name": "Snack",
+          "what": "Hummus (3 tbsp) + bell pepper",
+          "kcal": "~200"
+        },
+        {
+          "name": "Dinner",
+          "what": "Lean beef tacos (2) + salsa + side salad",
+          "kcal": "~550"
+        }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "items": [
+        {
+          "name": "Breakfast",
+          "what": "Egg scramble (2 eggs + 2 whites) + toast",
+          "kcal": "~360"
+        },
+        {
+          "name": "Snack",
+          "what": "Protein bar (\u226515g)",
+          "kcal": "~200"
+        },
+        {
+          "name": "Lunch",
+          "what": "Shrimp stir\u2011fry + veggies + 3/4 cup rice",
+          "kcal": "~520"
+        },
+        {
+          "name": "Snack",
+          "what": "Yogurt + 1/4 cup granola",
+          "kcal": "~240"
+        },
+        {
+          "name": "Dinner",
+          "what": "Chicken pasta (3/4 cup) + side salad",
+          "kcal": "~520"
+        }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "items": [
+        {
+          "name": "Breakfast",
+          "what": "Smoothie (berries, spinach, almond milk, protein powder)",
+          "kcal": "~320"
+        },
+        {
+          "name": "Snack",
+          "what": "Trail mix (~1 oz)",
+          "kcal": "~170"
+        },
+        {
+          "name": "Lunch",
+          "what": "Sushi roll (8 pc) + miso + edamame (1/2 cup)",
+          "kcal": "~520"
+        },
+        {
+          "name": "Snack",
+          "what": "Orange + string cheese",
+          "kcal": "~180"
+        },
+        {
+          "name": "Dinner",
+          "what": "Tofu bowl (6 oz) + veggies + brown rice (3/4 cup)",
+          "kcal": "~520"
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "items": [
+        {
+          "name": "Breakfast",
+          "what": "Bagel thin + light cream cheese + strawberries",
+          "kcal": "~320"
+        },
+        {
+          "name": "Snack",
+          "what": "Grapes + 10 almonds",
+          "kcal": "~180"
+        },
+        {
+          "name": "Lunch",
+          "what": "Chicken Caesar salad (light)",
+          "kcal": "~480"
+        },
+        {
+          "name": "Snack",
+          "what": "Protein shake",
+          "kcal": "~180"
+        },
+        {
+          "name": "Dinner",
+          "what": "Beef & veggie stir\u2011fry + 3/4 cup rice",
+          "kcal": "~560"
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "items": [
+        {
+          "name": "Breakfast",
+          "what": "Protein pancakes + turkey bacon (2) + light syrup",
+          "kcal": "~500"
+        },
+        {
+          "name": "Snack",
+          "what": "Yogurt + berries",
+          "kcal": "~200"
+        },
+        {
+          "name": "Lunch",
+          "what": "Grilled chicken sandwich + greens",
+          "kcal": "~520"
+        },
+        {
+          "name": "Snack",
+          "what": "Air\u2011popped popcorn (3 cups)",
+          "kcal": "~140"
+        },
+        {
+          "name": "Dinner",
+          "what": "Seafood bowl (shrimp + veggies + rice)",
+          "kcal": "~520"
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "items": [
+        {
+          "name": "Breakfast",
+          "what": "French toast (2 slices) + 1 egg",
+          "kcal": "~520"
+        },
+        {
+          "name": "Snack",
+          "what": "Apple + peanut butter",
+          "kcal": "~200"
+        },
+        {
+          "name": "Lunch",
+          "what": "Cobb salad (light dressing, no avocado)",
+          "kcal": "~480"
+        },
+        {
+          "name": "Snack",
+          "what": "Protein bar",
+          "kcal": "~200"
+        },
+        {
+          "name": "Dinner",
+          "what": "Roast chicken (5 oz) + potatoes (1 cup) + green beans",
+          "kcal": "~560"
+        }
+      ]
+    }
+  ]
+}

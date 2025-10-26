@@ -1,0 +1,1828 @@
+{
+  "weeks": [
+    {
+      "label": "Week 1",
+      "days": [
+        {
+          "name": "Monday \u2013 Glute Focus",
+          "exercises": [
+            {
+              "exercise": "Kettlebell Sumo Deadlift",
+              "sets": "4",
+              "reps": "10-12",
+              "calories": "\u224860",
+              "intensity": "7-8",
+              "cue": "Hinge; exhale to stand; squeeze 1s at top.",
+              "link": "https://www.youtube.com/watch?v=rW9fLE8o92w"
+            },
+            {
+              "exercise": "DB Romanian Deadlift",
+              "sets": "3",
+              "reps": "12",
+              "calories": "\u224855",
+              "intensity": "7",
+              "cue": "Soft knees; long spine; pause 1s mid-shin.",
+              "link": "https://www.youtube.com/watch?v=7j-2Y5bT5i0"
+            },
+            {
+              "exercise": "Hip Thrust (DB)",
+              "sets": "4",
+              "reps": "12",
+              "calories": "\u224865",
+              "intensity": "8",
+              "cue": "Tuck chin; exhale; hold 2s at top.",
+              "link": "https://www.youtube.com/watch?v=SEdqd1n0cvg"
+            },
+            {
+              "exercise": "Clamshell (band)",
+              "sets": "3/side",
+              "reps": "15",
+              "calories": "\u224825",
+              "intensity": "6",
+              "cue": "Heels together; rotate from hip.",
+              "link": "https://www.youtube.com/watch?v=upU7o2u-1ZQ"
+            },
+            {
+              "exercise": "Glute Bridge with Abduction (band)",
+              "sets": "3",
+              "reps": "15",
+              "calories": "\u224835",
+              "intensity": "6",
+              "cue": "Open knees at top; hold 1s.",
+              "link": "https://www.youtube.com/watch?v=1i5r3J2m8Nw"
+            }
+          ]
+        },
+        {
+          "name": "Tuesday \u2013 Upper Push/Pull",
+          "exercises": [
+            {
+              "exercise": "DB Incline Press",
+              "sets": "4",
+              "reps": "10",
+              "calories": "\u224850",
+              "intensity": "7",
+              "cue": "Exhale press; shoulder blades back & down.",
+              "link": "https://www.youtube.com/watch?v=8iPEnn-ltC8"
+            },
+            {
+              "exercise": "1\u2011Arm DB Row",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224845",
+              "intensity": "7",
+              "cue": "Exhale pull; pause 1s; neutral spine.",
+              "link": "https://www.youtube.com/watch?v=pYcpY20QaE8"
+            },
+            {
+              "exercise": "DB Chest Fly (floor)",
+              "sets": "3",
+              "reps": "12",
+              "calories": "\u224840",
+              "intensity": "6-7",
+              "cue": "Soft elbows; big chest stretch.",
+              "link": "https://www.youtube.com/watch?v=eozdVDA78K0"
+            },
+            {
+              "exercise": "DB Pullover",
+              "sets": "3",
+              "reps": "12",
+              "calories": "\u224840",
+              "intensity": "6-7",
+              "cue": "Ribs down; lats stretch; exhale pull.",
+              "link": "https://www.youtube.com/watch?v=GZbfZ033f74"
+            },
+            {
+              "exercise": "Push\u2011ups (incline as needed)",
+              "sets": "3",
+              "reps": "AMRAP",
+              "calories": "\u224835",
+              "intensity": "7",
+              "cue": "Body tight; inhale down, exhale press.",
+              "link": "https://www.youtube.com/watch?v=_l3ySVKYVJ8"
+            }
+          ]
+        },
+        {
+          "name": "Wednesday \u2013 Core + Mobility",
+          "exercises": [
+            {
+              "exercise": "Dead Bug",
+              "sets": "3",
+              "reps": "10/side",
+              "calories": "\u224830",
+              "intensity": "5-6",
+              "cue": "Ribs down; exhale extend; slow.",
+              "link": "https://www.youtube.com/watch?v=25gt8Z8PRSI"
+            },
+            {
+              "exercise": "Side Plank Hip Abduction",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224830",
+              "intensity": "6",
+              "cue": "Hips stacked; glute med focus.",
+              "link": "https://www.youtube.com/watch?v=yEJ8y8A-1E8"
+            },
+            {
+              "exercise": "Pallof Press (band)",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224825",
+              "intensity": "6",
+              "cue": "Anti-rotation; tall posture.",
+              "link": "https://www.youtube.com/watch?v=_l3ySVKYVJ8"
+            }
+          ]
+        },
+        {
+          "name": "Thursday \u2013 Glutes/Hips & Abductors",
+          "exercises": [
+            {
+              "exercise": "Bulgarian Split Squat (DB)",
+              "sets": "3/leg",
+              "reps": "10-12",
+              "calories": "\u224855",
+              "intensity": "7-8",
+              "cue": "Torso tall; knee tracks toes; exhale up.",
+              "link": "https://www.youtube.com/watch?v=2C-uNgKwPLE"
+            },
+            {
+              "exercise": "Curtsy Lunge",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224845",
+              "intensity": "7",
+              "cue": "Hips square; reach back diagonal.",
+              "link": "https://www.youtube.com/watch?v=cFO1iA2s4bI"
+            },
+            {
+              "exercise": "Banded Lateral Walks",
+              "sets": "3",
+              "reps": "12/dir",
+              "calories": "\u224825",
+              "intensity": "6",
+              "cue": "Toes forward; constant tension.",
+              "link": "https://www.youtube.com/watch?v=K7YkH9Yw-1o"
+            },
+            {
+              "exercise": "KB Goblet Squat",
+              "sets": "4",
+              "reps": "12",
+              "calories": "\u224860",
+              "intensity": "7",
+              "cue": "Elbows between knees; exhale stand.",
+              "link": "https://www.youtube.com/watch?v=MeIiIdhvXT4"
+            }
+          ]
+        },
+        {
+          "name": "Friday \u2013 Conditioning & Core",
+          "exercises": [
+            {
+              "exercise": "Kettlebell Swings",
+              "sets": "5",
+              "reps": "12-15",
+              "calories": "\u224880",
+              "intensity": "8",
+              "cue": "Hinge power; snap hips; exhale swing.",
+              "link": "https://www.youtube.com/watch?v=7P4M4uP4V6s"
+            },
+            {
+              "exercise": "Renegade Row (DB)",
+              "sets": "3/side",
+              "reps": "10",
+              "calories": "\u224845",
+              "intensity": "7",
+              "cue": "Feet wide; hips steady.",
+              "link": "https://www.youtube.com/watch?v=yZ5T9G8i2bI"
+            },
+            {
+              "exercise": "Mountain Climbers",
+              "sets": "3",
+              "reps": "30s",
+              "calories": "\u224840",
+              "intensity": "7-8",
+              "cue": "Nose over hands; steady pace.",
+              "link": "https://www.youtube.com/watch?v=nmwgirgXLYM"
+            },
+            {
+              "exercise": "Bear Crawl Shoulder Tap",
+              "sets": "3",
+              "reps": "20 taps",
+              "calories": "\u224835",
+              "intensity": "7",
+              "cue": "Slow; minimal sway.",
+              "link": "https://www.youtube.com/watch?v=MLyI7w3QZ34"
+            },
+            {
+              "exercise": "Burpees (no push\u2011up option)",
+              "sets": "3",
+              "reps": "8-12",
+              "calories": "\u224860",
+              "intensity": "8",
+              "cue": "Exhale jump; land soft.",
+              "link": "https://www.youtube.com/watch?v=TU8QYVW0gDU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Week 2",
+      "days": [
+        {
+          "name": "Monday \u2013 Glute Focus",
+          "exercises": [
+            {
+              "exercise": "Kettlebell Sumo Deadlift",
+              "sets": "4",
+              "reps": "10-12",
+              "calories": "\u224860",
+              "intensity": "7-8",
+              "cue": "Hinge; exhale to stand; squeeze 1s at top.",
+              "link": "https://www.youtube.com/watch?v=rW9fLE8o92w"
+            },
+            {
+              "exercise": "DB Romanian Deadlift",
+              "sets": "3",
+              "reps": "12",
+              "calories": "\u224855",
+              "intensity": "7",
+              "cue": "Soft knees; long spine; pause 1s mid-shin.",
+              "link": "https://www.youtube.com/watch?v=7j-2Y5bT5i0"
+            },
+            {
+              "exercise": "Hip Thrust (DB)",
+              "sets": "4",
+              "reps": "12",
+              "calories": "\u224865",
+              "intensity": "8",
+              "cue": "Tuck chin; exhale; hold 2s at top.",
+              "link": "https://www.youtube.com/watch?v=SEdqd1n0cvg"
+            },
+            {
+              "exercise": "Clamshell (band)",
+              "sets": "3/side",
+              "reps": "15",
+              "calories": "\u224825",
+              "intensity": "6",
+              "cue": "Heels together; rotate from hip.",
+              "link": "https://www.youtube.com/watch?v=upU7o2u-1ZQ"
+            },
+            {
+              "exercise": "Glute Bridge with Abduction (band)",
+              "sets": "3",
+              "reps": "15",
+              "calories": "\u224835",
+              "intensity": "6",
+              "cue": "Open knees at top; hold 1s.",
+              "link": "https://www.youtube.com/watch?v=1i5r3J2m8Nw"
+            }
+          ]
+        },
+        {
+          "name": "Tuesday \u2013 Upper Push/Pull",
+          "exercises": [
+            {
+              "exercise": "DB Incline Press",
+              "sets": "4",
+              "reps": "10",
+              "calories": "\u224850",
+              "intensity": "7",
+              "cue": "Exhale press; shoulder blades back & down.",
+              "link": "https://www.youtube.com/watch?v=8iPEnn-ltC8"
+            },
+            {
+              "exercise": "1\u2011Arm DB Row",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224845",
+              "intensity": "7",
+              "cue": "Exhale pull; pause 1s; neutral spine.",
+              "link": "https://www.youtube.com/watch?v=pYcpY20QaE8"
+            },
+            {
+              "exercise": "DB Chest Fly (floor)",
+              "sets": "3",
+              "reps": "12",
+              "calories": "\u224840",
+              "intensity": "6-7",
+              "cue": "Soft elbows; big chest stretch.",
+              "link": "https://www.youtube.com/watch?v=eozdVDA78K0"
+            },
+            {
+              "exercise": "DB Pullover",
+              "sets": "3",
+              "reps": "12",
+              "calories": "\u224840",
+              "intensity": "6-7",
+              "cue": "Ribs down; lats stretch; exhale pull.",
+              "link": "https://www.youtube.com/watch?v=GZbfZ033f74"
+            },
+            {
+              "exercise": "Push\u2011ups (incline as needed)",
+              "sets": "3",
+              "reps": "AMRAP",
+              "calories": "\u224835",
+              "intensity": "7",
+              "cue": "Body tight; inhale down, exhale press.",
+              "link": "https://www.youtube.com/watch?v=_l3ySVKYVJ8"
+            }
+          ]
+        },
+        {
+          "name": "Wednesday \u2013 Core + Mobility",
+          "exercises": [
+            {
+              "exercise": "Dead Bug",
+              "sets": "3",
+              "reps": "10/side",
+              "calories": "\u224830",
+              "intensity": "5-6",
+              "cue": "Ribs down; exhale extend; slow.",
+              "link": "https://www.youtube.com/watch?v=25gt8Z8PRSI"
+            },
+            {
+              "exercise": "Side Plank Hip Abduction",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224830",
+              "intensity": "6",
+              "cue": "Hips stacked; glute med focus.",
+              "link": "https://www.youtube.com/watch?v=yEJ8y8A-1E8"
+            },
+            {
+              "exercise": "Pallof Press (band)",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224825",
+              "intensity": "6",
+              "cue": "Anti-rotation; tall posture.",
+              "link": "https://www.youtube.com/watch?v=_l3ySVKYVJ8"
+            }
+          ]
+        },
+        {
+          "name": "Thursday \u2013 Glutes/Hips & Abductors",
+          "exercises": [
+            {
+              "exercise": "Bulgarian Split Squat (DB)",
+              "sets": "3/leg",
+              "reps": "10-12",
+              "calories": "\u224855",
+              "intensity": "7-8",
+              "cue": "Torso tall; knee tracks toes; exhale up.",
+              "link": "https://www.youtube.com/watch?v=2C-uNgKwPLE"
+            },
+            {
+              "exercise": "Curtsy Lunge",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224845",
+              "intensity": "7",
+              "cue": "Hips square; reach back diagonal.",
+              "link": "https://www.youtube.com/watch?v=cFO1iA2s4bI"
+            },
+            {
+              "exercise": "Banded Lateral Walks",
+              "sets": "3",
+              "reps": "12/dir",
+              "calories": "\u224825",
+              "intensity": "6",
+              "cue": "Toes forward; constant tension.",
+              "link": "https://www.youtube.com/watch?v=K7YkH9Yw-1o"
+            },
+            {
+              "exercise": "KB Goblet Squat",
+              "sets": "4",
+              "reps": "12",
+              "calories": "\u224860",
+              "intensity": "7",
+              "cue": "Elbows between knees; exhale stand.",
+              "link": "https://www.youtube.com/watch?v=MeIiIdhvXT4"
+            }
+          ]
+        },
+        {
+          "name": "Friday \u2013 Conditioning & Core",
+          "exercises": [
+            {
+              "exercise": "Kettlebell Swings",
+              "sets": "5",
+              "reps": "12-15",
+              "calories": "\u224880",
+              "intensity": "8",
+              "cue": "Hinge power; snap hips; exhale swing.",
+              "link": "https://www.youtube.com/watch?v=7P4M4uP4V6s"
+            },
+            {
+              "exercise": "Renegade Row (DB)",
+              "sets": "3/side",
+              "reps": "10",
+              "calories": "\u224845",
+              "intensity": "7",
+              "cue": "Feet wide; hips steady.",
+              "link": "https://www.youtube.com/watch?v=yZ5T9G8i2bI"
+            },
+            {
+              "exercise": "Mountain Climbers",
+              "sets": "3",
+              "reps": "30s",
+              "calories": "\u224840",
+              "intensity": "7-8",
+              "cue": "Nose over hands; steady pace.",
+              "link": "https://www.youtube.com/watch?v=nmwgirgXLYM"
+            },
+            {
+              "exercise": "Bear Crawl Shoulder Tap",
+              "sets": "3",
+              "reps": "20 taps",
+              "calories": "\u224835",
+              "intensity": "7",
+              "cue": "Slow; minimal sway.",
+              "link": "https://www.youtube.com/watch?v=MLyI7w3QZ34"
+            },
+            {
+              "exercise": "Burpees (no push\u2011up option)",
+              "sets": "3",
+              "reps": "8-12",
+              "calories": "\u224860",
+              "intensity": "8",
+              "cue": "Exhale jump; land soft.",
+              "link": "https://www.youtube.com/watch?v=TU8QYVW0gDU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Week 3",
+      "days": [
+        {
+          "name": "Monday \u2013 Glute Focus",
+          "exercises": [
+            {
+              "exercise": "Kettlebell Sumo Deadlift",
+              "sets": "4",
+              "reps": "10-12",
+              "calories": "\u224860",
+              "intensity": "7-8",
+              "cue": "Hinge; exhale to stand; squeeze 1s at top.",
+              "link": "https://www.youtube.com/watch?v=rW9fLE8o92w"
+            },
+            {
+              "exercise": "DB Romanian Deadlift",
+              "sets": "3",
+              "reps": "12",
+              "calories": "\u224855",
+              "intensity": "7",
+              "cue": "Soft knees; long spine; pause 1s mid-shin.",
+              "link": "https://www.youtube.com/watch?v=7j-2Y5bT5i0"
+            },
+            {
+              "exercise": "Hip Thrust (DB)",
+              "sets": "4",
+              "reps": "12",
+              "calories": "\u224865",
+              "intensity": "8",
+              "cue": "Tuck chin; exhale; hold 2s at top.",
+              "link": "https://www.youtube.com/watch?v=SEdqd1n0cvg"
+            },
+            {
+              "exercise": "Clamshell (band)",
+              "sets": "3/side",
+              "reps": "15",
+              "calories": "\u224825",
+              "intensity": "6",
+              "cue": "Heels together; rotate from hip.",
+              "link": "https://www.youtube.com/watch?v=upU7o2u-1ZQ"
+            },
+            {
+              "exercise": "Glute Bridge with Abduction (band)",
+              "sets": "3",
+              "reps": "15",
+              "calories": "\u224835",
+              "intensity": "6",
+              "cue": "Open knees at top; hold 1s.",
+              "link": "https://www.youtube.com/watch?v=1i5r3J2m8Nw"
+            }
+          ]
+        },
+        {
+          "name": "Tuesday \u2013 Upper Push/Pull",
+          "exercises": [
+            {
+              "exercise": "DB Incline Press",
+              "sets": "4",
+              "reps": "10",
+              "calories": "\u224850",
+              "intensity": "7",
+              "cue": "Exhale press; shoulder blades back & down.",
+              "link": "https://www.youtube.com/watch?v=8iPEnn-ltC8"
+            },
+            {
+              "exercise": "1\u2011Arm DB Row",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224845",
+              "intensity": "7",
+              "cue": "Exhale pull; pause 1s; neutral spine.",
+              "link": "https://www.youtube.com/watch?v=pYcpY20QaE8"
+            },
+            {
+              "exercise": "DB Chest Fly (floor)",
+              "sets": "3",
+              "reps": "12",
+              "calories": "\u224840",
+              "intensity": "6-7",
+              "cue": "Soft elbows; big chest stretch.",
+              "link": "https://www.youtube.com/watch?v=eozdVDA78K0"
+            },
+            {
+              "exercise": "DB Pullover",
+              "sets": "3",
+              "reps": "12",
+              "calories": "\u224840",
+              "intensity": "6-7",
+              "cue": "Ribs down; lats stretch; exhale pull.",
+              "link": "https://www.youtube.com/watch?v=GZbfZ033f74"
+            },
+            {
+              "exercise": "Push\u2011ups (incline as needed)",
+              "sets": "3",
+              "reps": "AMRAP",
+              "calories": "\u224835",
+              "intensity": "7",
+              "cue": "Body tight; inhale down, exhale press.",
+              "link": "https://www.youtube.com/watch?v=_l3ySVKYVJ8"
+            }
+          ]
+        },
+        {
+          "name": "Wednesday \u2013 Core + Mobility",
+          "exercises": [
+            {
+              "exercise": "Dead Bug",
+              "sets": "3",
+              "reps": "10/side",
+              "calories": "\u224830",
+              "intensity": "5-6",
+              "cue": "Ribs down; exhale extend; slow.",
+              "link": "https://www.youtube.com/watch?v=25gt8Z8PRSI"
+            },
+            {
+              "exercise": "Side Plank Hip Abduction",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224830",
+              "intensity": "6",
+              "cue": "Hips stacked; glute med focus.",
+              "link": "https://www.youtube.com/watch?v=yEJ8y8A-1E8"
+            },
+            {
+              "exercise": "Pallof Press (band)",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224825",
+              "intensity": "6",
+              "cue": "Anti-rotation; tall posture.",
+              "link": "https://www.youtube.com/watch?v=_l3ySVKYVJ8"
+            }
+          ]
+        },
+        {
+          "name": "Thursday \u2013 Glutes/Hips & Abductors",
+          "exercises": [
+            {
+              "exercise": "Bulgarian Split Squat (DB)",
+              "sets": "3/leg",
+              "reps": "10-12",
+              "calories": "\u224855",
+              "intensity": "7-8",
+              "cue": "Torso tall; knee tracks toes; exhale up.",
+              "link": "https://www.youtube.com/watch?v=2C-uNgKwPLE"
+            },
+            {
+              "exercise": "Curtsy Lunge",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224845",
+              "intensity": "7",
+              "cue": "Hips square; reach back diagonal.",
+              "link": "https://www.youtube.com/watch?v=cFO1iA2s4bI"
+            },
+            {
+              "exercise": "Banded Lateral Walks",
+              "sets": "3",
+              "reps": "12/dir",
+              "calories": "\u224825",
+              "intensity": "6",
+              "cue": "Toes forward; constant tension.",
+              "link": "https://www.youtube.com/watch?v=K7YkH9Yw-1o"
+            },
+            {
+              "exercise": "KB Goblet Squat",
+              "sets": "4",
+              "reps": "12",
+              "calories": "\u224860",
+              "intensity": "7",
+              "cue": "Elbows between knees; exhale stand.",
+              "link": "https://www.youtube.com/watch?v=MeIiIdhvXT4"
+            }
+          ]
+        },
+        {
+          "name": "Friday \u2013 Conditioning & Core",
+          "exercises": [
+            {
+              "exercise": "Kettlebell Swings",
+              "sets": "5",
+              "reps": "12-15",
+              "calories": "\u224880",
+              "intensity": "8",
+              "cue": "Hinge power; snap hips; exhale swing.",
+              "link": "https://www.youtube.com/watch?v=7P4M4uP4V6s"
+            },
+            {
+              "exercise": "Renegade Row (DB)",
+              "sets": "3/side",
+              "reps": "10",
+              "calories": "\u224845",
+              "intensity": "7",
+              "cue": "Feet wide; hips steady.",
+              "link": "https://www.youtube.com/watch?v=yZ5T9G8i2bI"
+            },
+            {
+              "exercise": "Mountain Climbers",
+              "sets": "3",
+              "reps": "30s",
+              "calories": "\u224840",
+              "intensity": "7-8",
+              "cue": "Nose over hands; steady pace.",
+              "link": "https://www.youtube.com/watch?v=nmwgirgXLYM"
+            },
+            {
+              "exercise": "Bear Crawl Shoulder Tap",
+              "sets": "3",
+              "reps": "20 taps",
+              "calories": "\u224835",
+              "intensity": "7",
+              "cue": "Slow; minimal sway.",
+              "link": "https://www.youtube.com/watch?v=MLyI7w3QZ34"
+            },
+            {
+              "exercise": "Burpees (no push\u2011up option)",
+              "sets": "3",
+              "reps": "8-12",
+              "calories": "\u224860",
+              "intensity": "8",
+              "cue": "Exhale jump; land soft.",
+              "link": "https://www.youtube.com/watch?v=TU8QYVW0gDU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Week 4",
+      "days": [
+        {
+          "name": "Monday \u2013 Glute Focus",
+          "exercises": [
+            {
+              "exercise": "Kettlebell Sumo Deadlift",
+              "sets": "4",
+              "reps": "10-12",
+              "calories": "\u224860",
+              "intensity": "7-8",
+              "cue": "Hinge; exhale to stand; squeeze 1s at top.",
+              "link": "https://www.youtube.com/watch?v=rW9fLE8o92w"
+            },
+            {
+              "exercise": "DB Romanian Deadlift",
+              "sets": "3",
+              "reps": "12",
+              "calories": "\u224855",
+              "intensity": "7",
+              "cue": "Soft knees; long spine; pause 1s mid-shin.",
+              "link": "https://www.youtube.com/watch?v=7j-2Y5bT5i0"
+            },
+            {
+              "exercise": "Hip Thrust (DB)",
+              "sets": "4",
+              "reps": "12",
+              "calories": "\u224865",
+              "intensity": "8",
+              "cue": "Tuck chin; exhale; hold 2s at top.",
+              "link": "https://www.youtube.com/watch?v=SEdqd1n0cvg"
+            },
+            {
+              "exercise": "Clamshell (band)",
+              "sets": "3/side",
+              "reps": "15",
+              "calories": "\u224825",
+              "intensity": "6",
+              "cue": "Heels together; rotate from hip.",
+              "link": "https://www.youtube.com/watch?v=upU7o2u-1ZQ"
+            },
+            {
+              "exercise": "Glute Bridge with Abduction (band)",
+              "sets": "3",
+              "reps": "15",
+              "calories": "\u224835",
+              "intensity": "6",
+              "cue": "Open knees at top; hold 1s.",
+              "link": "https://www.youtube.com/watch?v=1i5r3J2m8Nw"
+            }
+          ]
+        },
+        {
+          "name": "Tuesday \u2013 Upper Push/Pull",
+          "exercises": [
+            {
+              "exercise": "DB Incline Press",
+              "sets": "4",
+              "reps": "10",
+              "calories": "\u224850",
+              "intensity": "7",
+              "cue": "Exhale press; shoulder blades back & down.",
+              "link": "https://www.youtube.com/watch?v=8iPEnn-ltC8"
+            },
+            {
+              "exercise": "1\u2011Arm DB Row",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224845",
+              "intensity": "7",
+              "cue": "Exhale pull; pause 1s; neutral spine.",
+              "link": "https://www.youtube.com/watch?v=pYcpY20QaE8"
+            },
+            {
+              "exercise": "DB Chest Fly (floor)",
+              "sets": "3",
+              "reps": "12",
+              "calories": "\u224840",
+              "intensity": "6-7",
+              "cue": "Soft elbows; big chest stretch.",
+              "link": "https://www.youtube.com/watch?v=eozdVDA78K0"
+            },
+            {
+              "exercise": "DB Pullover",
+              "sets": "3",
+              "reps": "12",
+              "calories": "\u224840",
+              "intensity": "6-7",
+              "cue": "Ribs down; lats stretch; exhale pull.",
+              "link": "https://www.youtube.com/watch?v=GZbfZ033f74"
+            },
+            {
+              "exercise": "Push\u2011ups (incline as needed)",
+              "sets": "3",
+              "reps": "AMRAP",
+              "calories": "\u224835",
+              "intensity": "7",
+              "cue": "Body tight; inhale down, exhale press.",
+              "link": "https://www.youtube.com/watch?v=_l3ySVKYVJ8"
+            }
+          ]
+        },
+        {
+          "name": "Wednesday \u2013 Core + Mobility",
+          "exercises": [
+            {
+              "exercise": "Dead Bug",
+              "sets": "3",
+              "reps": "10/side",
+              "calories": "\u224830",
+              "intensity": "5-6",
+              "cue": "Ribs down; exhale extend; slow.",
+              "link": "https://www.youtube.com/watch?v=25gt8Z8PRSI"
+            },
+            {
+              "exercise": "Side Plank Hip Abduction",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224830",
+              "intensity": "6",
+              "cue": "Hips stacked; glute med focus.",
+              "link": "https://www.youtube.com/watch?v=yEJ8y8A-1E8"
+            },
+            {
+              "exercise": "Pallof Press (band)",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224825",
+              "intensity": "6",
+              "cue": "Anti-rotation; tall posture.",
+              "link": "https://www.youtube.com/watch?v=_l3ySVKYVJ8"
+            }
+          ]
+        },
+        {
+          "name": "Thursday \u2013 Glutes/Hips & Abductors",
+          "exercises": [
+            {
+              "exercise": "Bulgarian Split Squat (DB)",
+              "sets": "3/leg",
+              "reps": "10-12",
+              "calories": "\u224855",
+              "intensity": "7-8",
+              "cue": "Torso tall; knee tracks toes; exhale up.",
+              "link": "https://www.youtube.com/watch?v=2C-uNgKwPLE"
+            },
+            {
+              "exercise": "Curtsy Lunge",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224845",
+              "intensity": "7",
+              "cue": "Hips square; reach back diagonal.",
+              "link": "https://www.youtube.com/watch?v=cFO1iA2s4bI"
+            },
+            {
+              "exercise": "Banded Lateral Walks",
+              "sets": "3",
+              "reps": "12/dir",
+              "calories": "\u224825",
+              "intensity": "6",
+              "cue": "Toes forward; constant tension.",
+              "link": "https://www.youtube.com/watch?v=K7YkH9Yw-1o"
+            },
+            {
+              "exercise": "KB Goblet Squat",
+              "sets": "4",
+              "reps": "12",
+              "calories": "\u224860",
+              "intensity": "7",
+              "cue": "Elbows between knees; exhale stand.",
+              "link": "https://www.youtube.com/watch?v=MeIiIdhvXT4"
+            }
+          ]
+        },
+        {
+          "name": "Friday \u2013 Conditioning & Core",
+          "exercises": [
+            {
+              "exercise": "Kettlebell Swings",
+              "sets": "5",
+              "reps": "12-15",
+              "calories": "\u224880",
+              "intensity": "8",
+              "cue": "Hinge power; snap hips; exhale swing.",
+              "link": "https://www.youtube.com/watch?v=7P4M4uP4V6s"
+            },
+            {
+              "exercise": "Renegade Row (DB)",
+              "sets": "3/side",
+              "reps": "10",
+              "calories": "\u224845",
+              "intensity": "7",
+              "cue": "Feet wide; hips steady.",
+              "link": "https://www.youtube.com/watch?v=yZ5T9G8i2bI"
+            },
+            {
+              "exercise": "Mountain Climbers",
+              "sets": "3",
+              "reps": "30s",
+              "calories": "\u224840",
+              "intensity": "7-8",
+              "cue": "Nose over hands; steady pace.",
+              "link": "https://www.youtube.com/watch?v=nmwgirgXLYM"
+            },
+            {
+              "exercise": "Bear Crawl Shoulder Tap",
+              "sets": "3",
+              "reps": "20 taps",
+              "calories": "\u224835",
+              "intensity": "7",
+              "cue": "Slow; minimal sway.",
+              "link": "https://www.youtube.com/watch?v=MLyI7w3QZ34"
+            },
+            {
+              "exercise": "Burpees (no push\u2011up option)",
+              "sets": "3",
+              "reps": "8-12",
+              "calories": "\u224860",
+              "intensity": "8",
+              "cue": "Exhale jump; land soft.",
+              "link": "https://www.youtube.com/watch?v=TU8QYVW0gDU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Week 5",
+      "days": [
+        {
+          "name": "Monday \u2013 Glute Focus",
+          "exercises": [
+            {
+              "exercise": "Kettlebell Sumo Deadlift",
+              "sets": "4",
+              "reps": "10-12",
+              "calories": "\u224860",
+              "intensity": "7-8",
+              "cue": "Hinge; exhale to stand; squeeze 1s at top.",
+              "link": "https://www.youtube.com/watch?v=rW9fLE8o92w"
+            },
+            {
+              "exercise": "DB Romanian Deadlift",
+              "sets": "3",
+              "reps": "12",
+              "calories": "\u224855",
+              "intensity": "7",
+              "cue": "Soft knees; long spine; pause 1s mid-shin.",
+              "link": "https://www.youtube.com/watch?v=7j-2Y5bT5i0"
+            },
+            {
+              "exercise": "Hip Thrust (DB)",
+              "sets": "4",
+              "reps": "12",
+              "calories": "\u224865",
+              "intensity": "8",
+              "cue": "Tuck chin; exhale; hold 2s at top.",
+              "link": "https://www.youtube.com/watch?v=SEdqd1n0cvg"
+            },
+            {
+              "exercise": "Clamshell (band)",
+              "sets": "3/side",
+              "reps": "15",
+              "calories": "\u224825",
+              "intensity": "6",
+              "cue": "Heels together; rotate from hip.",
+              "link": "https://www.youtube.com/watch?v=upU7o2u-1ZQ"
+            },
+            {
+              "exercise": "Glute Bridge with Abduction (band)",
+              "sets": "3",
+              "reps": "15",
+              "calories": "\u224835",
+              "intensity": "6",
+              "cue": "Open knees at top; hold 1s.",
+              "link": "https://www.youtube.com/watch?v=1i5r3J2m8Nw"
+            }
+          ]
+        },
+        {
+          "name": "Tuesday \u2013 Upper Push/Pull",
+          "exercises": [
+            {
+              "exercise": "DB Incline Press",
+              "sets": "4",
+              "reps": "10",
+              "calories": "\u224850",
+              "intensity": "7",
+              "cue": "Exhale press; shoulder blades back & down.",
+              "link": "https://www.youtube.com/watch?v=8iPEnn-ltC8"
+            },
+            {
+              "exercise": "1\u2011Arm DB Row",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224845",
+              "intensity": "7",
+              "cue": "Exhale pull; pause 1s; neutral spine.",
+              "link": "https://www.youtube.com/watch?v=pYcpY20QaE8"
+            },
+            {
+              "exercise": "DB Chest Fly (floor)",
+              "sets": "3",
+              "reps": "12",
+              "calories": "\u224840",
+              "intensity": "6-7",
+              "cue": "Soft elbows; big chest stretch.",
+              "link": "https://www.youtube.com/watch?v=eozdVDA78K0"
+            },
+            {
+              "exercise": "DB Pullover",
+              "sets": "3",
+              "reps": "12",
+              "calories": "\u224840",
+              "intensity": "6-7",
+              "cue": "Ribs down; lats stretch; exhale pull.",
+              "link": "https://www.youtube.com/watch?v=GZbfZ033f74"
+            },
+            {
+              "exercise": "Push\u2011ups (incline as needed)",
+              "sets": "3",
+              "reps": "AMRAP",
+              "calories": "\u224835",
+              "intensity": "7",
+              "cue": "Body tight; inhale down, exhale press.",
+              "link": "https://www.youtube.com/watch?v=_l3ySVKYVJ8"
+            }
+          ]
+        },
+        {
+          "name": "Wednesday \u2013 Core + Mobility",
+          "exercises": [
+            {
+              "exercise": "Dead Bug",
+              "sets": "3",
+              "reps": "10/side",
+              "calories": "\u224830",
+              "intensity": "5-6",
+              "cue": "Ribs down; exhale extend; slow.",
+              "link": "https://www.youtube.com/watch?v=25gt8Z8PRSI"
+            },
+            {
+              "exercise": "Side Plank Hip Abduction",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224830",
+              "intensity": "6",
+              "cue": "Hips stacked; glute med focus.",
+              "link": "https://www.youtube.com/watch?v=yEJ8y8A-1E8"
+            },
+            {
+              "exercise": "Pallof Press (band)",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224825",
+              "intensity": "6",
+              "cue": "Anti-rotation; tall posture.",
+              "link": "https://www.youtube.com/watch?v=_l3ySVKYVJ8"
+            }
+          ]
+        },
+        {
+          "name": "Thursday \u2013 Glutes/Hips & Abductors",
+          "exercises": [
+            {
+              "exercise": "Bulgarian Split Squat (DB)",
+              "sets": "3/leg",
+              "reps": "10-12",
+              "calories": "\u224855",
+              "intensity": "7-8",
+              "cue": "Torso tall; knee tracks toes; exhale up.",
+              "link": "https://www.youtube.com/watch?v=2C-uNgKwPLE"
+            },
+            {
+              "exercise": "Curtsy Lunge",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224845",
+              "intensity": "7",
+              "cue": "Hips square; reach back diagonal.",
+              "link": "https://www.youtube.com/watch?v=cFO1iA2s4bI"
+            },
+            {
+              "exercise": "Banded Lateral Walks",
+              "sets": "3",
+              "reps": "12/dir",
+              "calories": "\u224825",
+              "intensity": "6",
+              "cue": "Toes forward; constant tension.",
+              "link": "https://www.youtube.com/watch?v=K7YkH9Yw-1o"
+            },
+            {
+              "exercise": "KB Goblet Squat",
+              "sets": "4",
+              "reps": "12",
+              "calories": "\u224860",
+              "intensity": "7",
+              "cue": "Elbows between knees; exhale stand.",
+              "link": "https://www.youtube.com/watch?v=MeIiIdhvXT4"
+            }
+          ]
+        },
+        {
+          "name": "Friday \u2013 Conditioning & Core",
+          "exercises": [
+            {
+              "exercise": "Kettlebell Swings",
+              "sets": "5",
+              "reps": "12-15",
+              "calories": "\u224880",
+              "intensity": "8",
+              "cue": "Hinge power; snap hips; exhale swing.",
+              "link": "https://www.youtube.com/watch?v=7P4M4uP4V6s"
+            },
+            {
+              "exercise": "Renegade Row (DB)",
+              "sets": "3/side",
+              "reps": "10",
+              "calories": "\u224845",
+              "intensity": "7",
+              "cue": "Feet wide; hips steady.",
+              "link": "https://www.youtube.com/watch?v=yZ5T9G8i2bI"
+            },
+            {
+              "exercise": "Mountain Climbers",
+              "sets": "3",
+              "reps": "30s",
+              "calories": "\u224840",
+              "intensity": "7-8",
+              "cue": "Nose over hands; steady pace.",
+              "link": "https://www.youtube.com/watch?v=nmwgirgXLYM"
+            },
+            {
+              "exercise": "Bear Crawl Shoulder Tap",
+              "sets": "3",
+              "reps": "20 taps",
+              "calories": "\u224835",
+              "intensity": "7",
+              "cue": "Slow; minimal sway.",
+              "link": "https://www.youtube.com/watch?v=MLyI7w3QZ34"
+            },
+            {
+              "exercise": "Burpees (no push\u2011up option)",
+              "sets": "3",
+              "reps": "8-12",
+              "calories": "\u224860",
+              "intensity": "8",
+              "cue": "Exhale jump; land soft.",
+              "link": "https://www.youtube.com/watch?v=TU8QYVW0gDU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Week 6",
+      "days": [
+        {
+          "name": "Monday \u2013 Glute Focus",
+          "exercises": [
+            {
+              "exercise": "Kettlebell Sumo Deadlift",
+              "sets": "4",
+              "reps": "10-12",
+              "calories": "\u224860",
+              "intensity": "7-8",
+              "cue": "Hinge; exhale to stand; squeeze 1s at top.",
+              "link": "https://www.youtube.com/watch?v=rW9fLE8o92w"
+            },
+            {
+              "exercise": "DB Romanian Deadlift",
+              "sets": "3",
+              "reps": "12",
+              "calories": "\u224855",
+              "intensity": "7",
+              "cue": "Soft knees; long spine; pause 1s mid-shin.",
+              "link": "https://www.youtube.com/watch?v=7j-2Y5bT5i0"
+            },
+            {
+              "exercise": "Hip Thrust (DB)",
+              "sets": "4",
+              "reps": "12",
+              "calories": "\u224865",
+              "intensity": "8",
+              "cue": "Tuck chin; exhale; hold 2s at top.",
+              "link": "https://www.youtube.com/watch?v=SEdqd1n0cvg"
+            },
+            {
+              "exercise": "Clamshell (band)",
+              "sets": "3/side",
+              "reps": "15",
+              "calories": "\u224825",
+              "intensity": "6",
+              "cue": "Heels together; rotate from hip.",
+              "link": "https://www.youtube.com/watch?v=upU7o2u-1ZQ"
+            },
+            {
+              "exercise": "Glute Bridge with Abduction (band)",
+              "sets": "3",
+              "reps": "15",
+              "calories": "\u224835",
+              "intensity": "6",
+              "cue": "Open knees at top; hold 1s.",
+              "link": "https://www.youtube.com/watch?v=1i5r3J2m8Nw"
+            }
+          ]
+        },
+        {
+          "name": "Tuesday \u2013 Upper Push/Pull",
+          "exercises": [
+            {
+              "exercise": "DB Incline Press",
+              "sets": "4",
+              "reps": "10",
+              "calories": "\u224850",
+              "intensity": "7",
+              "cue": "Exhale press; shoulder blades back & down.",
+              "link": "https://www.youtube.com/watch?v=8iPEnn-ltC8"
+            },
+            {
+              "exercise": "1\u2011Arm DB Row",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224845",
+              "intensity": "7",
+              "cue": "Exhale pull; pause 1s; neutral spine.",
+              "link": "https://www.youtube.com/watch?v=pYcpY20QaE8"
+            },
+            {
+              "exercise": "DB Chest Fly (floor)",
+              "sets": "3",
+              "reps": "12",
+              "calories": "\u224840",
+              "intensity": "6-7",
+              "cue": "Soft elbows; big chest stretch.",
+              "link": "https://www.youtube.com/watch?v=eozdVDA78K0"
+            },
+            {
+              "exercise": "DB Pullover",
+              "sets": "3",
+              "reps": "12",
+              "calories": "\u224840",
+              "intensity": "6-7",
+              "cue": "Ribs down; lats stretch; exhale pull.",
+              "link": "https://www.youtube.com/watch?v=GZbfZ033f74"
+            },
+            {
+              "exercise": "Push\u2011ups (incline as needed)",
+              "sets": "3",
+              "reps": "AMRAP",
+              "calories": "\u224835",
+              "intensity": "7",
+              "cue": "Body tight; inhale down, exhale press.",
+              "link": "https://www.youtube.com/watch?v=_l3ySVKYVJ8"
+            }
+          ]
+        },
+        {
+          "name": "Wednesday \u2013 Core + Mobility",
+          "exercises": [
+            {
+              "exercise": "Dead Bug",
+              "sets": "3",
+              "reps": "10/side",
+              "calories": "\u224830",
+              "intensity": "5-6",
+              "cue": "Ribs down; exhale extend; slow.",
+              "link": "https://www.youtube.com/watch?v=25gt8Z8PRSI"
+            },
+            {
+              "exercise": "Side Plank Hip Abduction",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224830",
+              "intensity": "6",
+              "cue": "Hips stacked; glute med focus.",
+              "link": "https://www.youtube.com/watch?v=yEJ8y8A-1E8"
+            },
+            {
+              "exercise": "Pallof Press (band)",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224825",
+              "intensity": "6",
+              "cue": "Anti-rotation; tall posture.",
+              "link": "https://www.youtube.com/watch?v=_l3ySVKYVJ8"
+            }
+          ]
+        },
+        {
+          "name": "Thursday \u2013 Glutes/Hips & Abductors",
+          "exercises": [
+            {
+              "exercise": "Bulgarian Split Squat (DB)",
+              "sets": "3/leg",
+              "reps": "10-12",
+              "calories": "\u224855",
+              "intensity": "7-8",
+              "cue": "Torso tall; knee tracks toes; exhale up.",
+              "link": "https://www.youtube.com/watch?v=2C-uNgKwPLE"
+            },
+            {
+              "exercise": "Curtsy Lunge",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224845",
+              "intensity": "7",
+              "cue": "Hips square; reach back diagonal.",
+              "link": "https://www.youtube.com/watch?v=cFO1iA2s4bI"
+            },
+            {
+              "exercise": "Banded Lateral Walks",
+              "sets": "3",
+              "reps": "12/dir",
+              "calories": "\u224825",
+              "intensity": "6",
+              "cue": "Toes forward; constant tension.",
+              "link": "https://www.youtube.com/watch?v=K7YkH9Yw-1o"
+            },
+            {
+              "exercise": "KB Goblet Squat",
+              "sets": "4",
+              "reps": "12",
+              "calories": "\u224860",
+              "intensity": "7",
+              "cue": "Elbows between knees; exhale stand.",
+              "link": "https://www.youtube.com/watch?v=MeIiIdhvXT4"
+            }
+          ]
+        },
+        {
+          "name": "Friday \u2013 Conditioning & Core",
+          "exercises": [
+            {
+              "exercise": "Kettlebell Swings",
+              "sets": "5",
+              "reps": "12-15",
+              "calories": "\u224880",
+              "intensity": "8",
+              "cue": "Hinge power; snap hips; exhale swing.",
+              "link": "https://www.youtube.com/watch?v=7P4M4uP4V6s"
+            },
+            {
+              "exercise": "Renegade Row (DB)",
+              "sets": "3/side",
+              "reps": "10",
+              "calories": "\u224845",
+              "intensity": "7",
+              "cue": "Feet wide; hips steady.",
+              "link": "https://www.youtube.com/watch?v=yZ5T9G8i2bI"
+            },
+            {
+              "exercise": "Mountain Climbers",
+              "sets": "3",
+              "reps": "30s",
+              "calories": "\u224840",
+              "intensity": "7-8",
+              "cue": "Nose over hands; steady pace.",
+              "link": "https://www.youtube.com/watch?v=nmwgirgXLYM"
+            },
+            {
+              "exercise": "Bear Crawl Shoulder Tap",
+              "sets": "3",
+              "reps": "20 taps",
+              "calories": "\u224835",
+              "intensity": "7",
+              "cue": "Slow; minimal sway.",
+              "link": "https://www.youtube.com/watch?v=MLyI7w3QZ34"
+            },
+            {
+              "exercise": "Burpees (no push\u2011up option)",
+              "sets": "3",
+              "reps": "8-12",
+              "calories": "\u224860",
+              "intensity": "8",
+              "cue": "Exhale jump; land soft.",
+              "link": "https://www.youtube.com/watch?v=TU8QYVW0gDU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Week 7",
+      "days": [
+        {
+          "name": "Monday \u2013 Glute Focus",
+          "exercises": [
+            {
+              "exercise": "Kettlebell Sumo Deadlift",
+              "sets": "4",
+              "reps": "10-12",
+              "calories": "\u224860",
+              "intensity": "7-8",
+              "cue": "Hinge; exhale to stand; squeeze 1s at top.",
+              "link": "https://www.youtube.com/watch?v=rW9fLE8o92w"
+            },
+            {
+              "exercise": "DB Romanian Deadlift",
+              "sets": "3",
+              "reps": "12",
+              "calories": "\u224855",
+              "intensity": "7",
+              "cue": "Soft knees; long spine; pause 1s mid-shin.",
+              "link": "https://www.youtube.com/watch?v=7j-2Y5bT5i0"
+            },
+            {
+              "exercise": "Hip Thrust (DB)",
+              "sets": "4",
+              "reps": "12",
+              "calories": "\u224865",
+              "intensity": "8",
+              "cue": "Tuck chin; exhale; hold 2s at top.",
+              "link": "https://www.youtube.com/watch?v=SEdqd1n0cvg"
+            },
+            {
+              "exercise": "Clamshell (band)",
+              "sets": "3/side",
+              "reps": "15",
+              "calories": "\u224825",
+              "intensity": "6",
+              "cue": "Heels together; rotate from hip.",
+              "link": "https://www.youtube.com/watch?v=upU7o2u-1ZQ"
+            },
+            {
+              "exercise": "Glute Bridge with Abduction (band)",
+              "sets": "3",
+              "reps": "15",
+              "calories": "\u224835",
+              "intensity": "6",
+              "cue": "Open knees at top; hold 1s.",
+              "link": "https://www.youtube.com/watch?v=1i5r3J2m8Nw"
+            }
+          ]
+        },
+        {
+          "name": "Tuesday \u2013 Upper Push/Pull",
+          "exercises": [
+            {
+              "exercise": "DB Incline Press",
+              "sets": "4",
+              "reps": "10",
+              "calories": "\u224850",
+              "intensity": "7",
+              "cue": "Exhale press; shoulder blades back & down.",
+              "link": "https://www.youtube.com/watch?v=8iPEnn-ltC8"
+            },
+            {
+              "exercise": "1\u2011Arm DB Row",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224845",
+              "intensity": "7",
+              "cue": "Exhale pull; pause 1s; neutral spine.",
+              "link": "https://www.youtube.com/watch?v=pYcpY20QaE8"
+            },
+            {
+              "exercise": "DB Chest Fly (floor)",
+              "sets": "3",
+              "reps": "12",
+              "calories": "\u224840",
+              "intensity": "6-7",
+              "cue": "Soft elbows; big chest stretch.",
+              "link": "https://www.youtube.com/watch?v=eozdVDA78K0"
+            },
+            {
+              "exercise": "DB Pullover",
+              "sets": "3",
+              "reps": "12",
+              "calories": "\u224840",
+              "intensity": "6-7",
+              "cue": "Ribs down; lats stretch; exhale pull.",
+              "link": "https://www.youtube.com/watch?v=GZbfZ033f74"
+            },
+            {
+              "exercise": "Push\u2011ups (incline as needed)",
+              "sets": "3",
+              "reps": "AMRAP",
+              "calories": "\u224835",
+              "intensity": "7",
+              "cue": "Body tight; inhale down, exhale press.",
+              "link": "https://www.youtube.com/watch?v=_l3ySVKYVJ8"
+            }
+          ]
+        },
+        {
+          "name": "Wednesday \u2013 Core + Mobility",
+          "exercises": [
+            {
+              "exercise": "Dead Bug",
+              "sets": "3",
+              "reps": "10/side",
+              "calories": "\u224830",
+              "intensity": "5-6",
+              "cue": "Ribs down; exhale extend; slow.",
+              "link": "https://www.youtube.com/watch?v=25gt8Z8PRSI"
+            },
+            {
+              "exercise": "Side Plank Hip Abduction",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224830",
+              "intensity": "6",
+              "cue": "Hips stacked; glute med focus.",
+              "link": "https://www.youtube.com/watch?v=yEJ8y8A-1E8"
+            },
+            {
+              "exercise": "Pallof Press (band)",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224825",
+              "intensity": "6",
+              "cue": "Anti-rotation; tall posture.",
+              "link": "https://www.youtube.com/watch?v=_l3ySVKYVJ8"
+            }
+          ]
+        },
+        {
+          "name": "Thursday \u2013 Glutes/Hips & Abductors",
+          "exercises": [
+            {
+              "exercise": "Bulgarian Split Squat (DB)",
+              "sets": "3/leg",
+              "reps": "10-12",
+              "calories": "\u224855",
+              "intensity": "7-8",
+              "cue": "Torso tall; knee tracks toes; exhale up.",
+              "link": "https://www.youtube.com/watch?v=2C-uNgKwPLE"
+            },
+            {
+              "exercise": "Curtsy Lunge",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224845",
+              "intensity": "7",
+              "cue": "Hips square; reach back diagonal.",
+              "link": "https://www.youtube.com/watch?v=cFO1iA2s4bI"
+            },
+            {
+              "exercise": "Banded Lateral Walks",
+              "sets": "3",
+              "reps": "12/dir",
+              "calories": "\u224825",
+              "intensity": "6",
+              "cue": "Toes forward; constant tension.",
+              "link": "https://www.youtube.com/watch?v=K7YkH9Yw-1o"
+            },
+            {
+              "exercise": "KB Goblet Squat",
+              "sets": "4",
+              "reps": "12",
+              "calories": "\u224860",
+              "intensity": "7",
+              "cue": "Elbows between knees; exhale stand.",
+              "link": "https://www.youtube.com/watch?v=MeIiIdhvXT4"
+            }
+          ]
+        },
+        {
+          "name": "Friday \u2013 Conditioning & Core",
+          "exercises": [
+            {
+              "exercise": "Kettlebell Swings",
+              "sets": "5",
+              "reps": "12-15",
+              "calories": "\u224880",
+              "intensity": "8",
+              "cue": "Hinge power; snap hips; exhale swing.",
+              "link": "https://www.youtube.com/watch?v=7P4M4uP4V6s"
+            },
+            {
+              "exercise": "Renegade Row (DB)",
+              "sets": "3/side",
+              "reps": "10",
+              "calories": "\u224845",
+              "intensity": "7",
+              "cue": "Feet wide; hips steady.",
+              "link": "https://www.youtube.com/watch?v=yZ5T9G8i2bI"
+            },
+            {
+              "exercise": "Mountain Climbers",
+              "sets": "3",
+              "reps": "30s",
+              "calories": "\u224840",
+              "intensity": "7-8",
+              "cue": "Nose over hands; steady pace.",
+              "link": "https://www.youtube.com/watch?v=nmwgirgXLYM"
+            },
+            {
+              "exercise": "Bear Crawl Shoulder Tap",
+              "sets": "3",
+              "reps": "20 taps",
+              "calories": "\u224835",
+              "intensity": "7",
+              "cue": "Slow; minimal sway.",
+              "link": "https://www.youtube.com/watch?v=MLyI7w3QZ34"
+            },
+            {
+              "exercise": "Burpees (no push\u2011up option)",
+              "sets": "3",
+              "reps": "8-12",
+              "calories": "\u224860",
+              "intensity": "8",
+              "cue": "Exhale jump; land soft.",
+              "link": "https://www.youtube.com/watch?v=TU8QYVW0gDU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Week 8",
+      "days": [
+        {
+          "name": "Monday \u2013 Glute Focus",
+          "exercises": [
+            {
+              "exercise": "Kettlebell Sumo Deadlift",
+              "sets": "4",
+              "reps": "10-12",
+              "calories": "\u224860",
+              "intensity": "7-8",
+              "cue": "Hinge; exhale to stand; squeeze 1s at top.",
+              "link": "https://www.youtube.com/watch?v=rW9fLE8o92w"
+            },
+            {
+              "exercise": "DB Romanian Deadlift",
+              "sets": "3",
+              "reps": "12",
+              "calories": "\u224855",
+              "intensity": "7",
+              "cue": "Soft knees; long spine; pause 1s mid-shin.",
+              "link": "https://www.youtube.com/watch?v=7j-2Y5bT5i0"
+            },
+            {
+              "exercise": "Hip Thrust (DB)",
+              "sets": "4",
+              "reps": "12",
+              "calories": "\u224865",
+              "intensity": "8",
+              "cue": "Tuck chin; exhale; hold 2s at top.",
+              "link": "https://www.youtube.com/watch?v=SEdqd1n0cvg"
+            },
+            {
+              "exercise": "Clamshell (band)",
+              "sets": "3/side",
+              "reps": "15",
+              "calories": "\u224825",
+              "intensity": "6",
+              "cue": "Heels together; rotate from hip.",
+              "link": "https://www.youtube.com/watch?v=upU7o2u-1ZQ"
+            },
+            {
+              "exercise": "Glute Bridge with Abduction (band)",
+              "sets": "3",
+              "reps": "15",
+              "calories": "\u224835",
+              "intensity": "6",
+              "cue": "Open knees at top; hold 1s.",
+              "link": "https://www.youtube.com/watch?v=1i5r3J2m8Nw"
+            }
+          ]
+        },
+        {
+          "name": "Tuesday \u2013 Upper Push/Pull",
+          "exercises": [
+            {
+              "exercise": "DB Incline Press",
+              "sets": "4",
+              "reps": "10",
+              "calories": "\u224850",
+              "intensity": "7",
+              "cue": "Exhale press; shoulder blades back & down.",
+              "link": "https://www.youtube.com/watch?v=8iPEnn-ltC8"
+            },
+            {
+              "exercise": "1\u2011Arm DB Row",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224845",
+              "intensity": "7",
+              "cue": "Exhale pull; pause 1s; neutral spine.",
+              "link": "https://www.youtube.com/watch?v=pYcpY20QaE8"
+            },
+            {
+              "exercise": "DB Chest Fly (floor)",
+              "sets": "3",
+              "reps": "12",
+              "calories": "\u224840",
+              "intensity": "6-7",
+              "cue": "Soft elbows; big chest stretch.",
+              "link": "https://www.youtube.com/watch?v=eozdVDA78K0"
+            },
+            {
+              "exercise": "DB Pullover",
+              "sets": "3",
+              "reps": "12",
+              "calories": "\u224840",
+              "intensity": "6-7",
+              "cue": "Ribs down; lats stretch; exhale pull.",
+              "link": "https://www.youtube.com/watch?v=GZbfZ033f74"
+            },
+            {
+              "exercise": "Push\u2011ups (incline as needed)",
+              "sets": "3",
+              "reps": "AMRAP",
+              "calories": "\u224835",
+              "intensity": "7",
+              "cue": "Body tight; inhale down, exhale press.",
+              "link": "https://www.youtube.com/watch?v=_l3ySVKYVJ8"
+            }
+          ]
+        },
+        {
+          "name": "Wednesday \u2013 Core + Mobility",
+          "exercises": [
+            {
+              "exercise": "Dead Bug",
+              "sets": "3",
+              "reps": "10/side",
+              "calories": "\u224830",
+              "intensity": "5-6",
+              "cue": "Ribs down; exhale extend; slow.",
+              "link": "https://www.youtube.com/watch?v=25gt8Z8PRSI"
+            },
+            {
+              "exercise": "Side Plank Hip Abduction",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224830",
+              "intensity": "6",
+              "cue": "Hips stacked; glute med focus.",
+              "link": "https://www.youtube.com/watch?v=yEJ8y8A-1E8"
+            },
+            {
+              "exercise": "Pallof Press (band)",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224825",
+              "intensity": "6",
+              "cue": "Anti-rotation; tall posture.",
+              "link": "https://www.youtube.com/watch?v=_l3ySVKYVJ8"
+            }
+          ]
+        },
+        {
+          "name": "Thursday \u2013 Glutes/Hips & Abductors",
+          "exercises": [
+            {
+              "exercise": "Bulgarian Split Squat (DB)",
+              "sets": "3/leg",
+              "reps": "10-12",
+              "calories": "\u224855",
+              "intensity": "7-8",
+              "cue": "Torso tall; knee tracks toes; exhale up.",
+              "link": "https://www.youtube.com/watch?v=2C-uNgKwPLE"
+            },
+            {
+              "exercise": "Curtsy Lunge",
+              "sets": "3/side",
+              "reps": "12",
+              "calories": "\u224845",
+              "intensity": "7",
+              "cue": "Hips square; reach back diagonal.",
+              "link": "https://www.youtube.com/watch?v=cFO1iA2s4bI"
+            },
+            {
+              "exercise": "Banded Lateral Walks",
+              "sets": "3",
+              "reps": "12/dir",
+              "calories": "\u224825",
+              "intensity": "6",
+              "cue": "Toes forward; constant tension.",
+              "link": "https://www.youtube.com/watch?v=K7YkH9Yw-1o"
+            },
+            {
+              "exercise": "KB Goblet Squat",
+              "sets": "4",
+              "reps": "12",
+              "calories": "\u224860",
+              "intensity": "7",
+              "cue": "Elbows between knees; exhale stand.",
+              "link": "https://www.youtube.com/watch?v=MeIiIdhvXT4"
+            }
+          ]
+        },
+        {
+          "name": "Friday \u2013 Conditioning & Core",
+          "exercises": [
+            {
+              "exercise": "Kettlebell Swings",
+              "sets": "5",
+              "reps": "12-15",
+              "calories": "\u224880",
+              "intensity": "8",
+              "cue": "Hinge power; snap hips; exhale swing.",
+              "link": "https://www.youtube.com/watch?v=7P4M4uP4V6s"
+            },
+            {
+              "exercise": "Renegade Row (DB)",
+              "sets": "3/side",
+              "reps": "10",
+              "calories": "\u224845",
+              "intensity": "7",
+              "cue": "Feet wide; hips steady.",
+              "link": "https://www.youtube.com/watch?v=yZ5T9G8i2bI"
+            },
+            {
+              "exercise": "Mountain Climbers",
+              "sets": "3",
+              "reps": "30s",
+              "calories": "\u224840",
+              "intensity": "7-8",
+              "cue": "Nose over hands; steady pace.",
+              "link": "https://www.youtube.com/watch?v=nmwgirgXLYM"
+            },
+            {
+              "exercise": "Bear Crawl Shoulder Tap",
+              "sets": "3",
+              "reps": "20 taps",
+              "calories": "\u224835",
+              "intensity": "7",
+              "cue": "Slow; minimal sway.",
+              "link": "https://www.youtube.com/watch?v=MLyI7w3QZ34"
+            },
+            {
+              "exercise": "Burpees (no push\u2011up option)",
+              "sets": "3",
+              "reps": "8-12",
+              "calories": "\u224860",
+              "intensity": "8",
+              "cue": "Exhale jump; land soft.",
+              "link": "https://www.youtube.com/watch?v=TU8QYVW0gDU"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
